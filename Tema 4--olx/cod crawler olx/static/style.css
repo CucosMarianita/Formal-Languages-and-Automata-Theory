@@ -1,0 +1,14 @@
+/* .poza{
+    width: 100px;
+    height: 100px;
+    background-image: url(images/olx.jpg)
+} */
+body{
+    /* height: 100px;
+    width: 100px; */
+    background-image: url(images/olx.jpg);
+}
+div{
+    font-size: large;
+    font-weight:bold;
+}

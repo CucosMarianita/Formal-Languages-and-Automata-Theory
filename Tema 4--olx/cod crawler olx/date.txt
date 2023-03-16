@@ -1,0 +1,270 @@
+
+1.Tari:
+Germania: 80
+Belgia: 11
+Bulgaria: 6
+Franta: 49
+Italia: 28
+Anglia: 25
+Danemarca: 3
+Olanda: 23
+Spania: 34
+---------------------------
+2.Nivel studii:
+Necalificat: 112
+Calificat: 42
+Student: 6
+Absolvent: 3
+---------------------------
+3.Tip contract:
+Perioada nedeterminata: 110
+Perioada determinata: 8
+Colaborare: 27
+Internship: 1
+---------------------------
+4.Program:
+Full-time: 151
+Part-time: 63
+Flexibil: 104
+>8h: 41
+---------------------------
+5.Categorii permis:
+catA: 4
+catB: 42
+catBE: 3
+catC: 27
+catCE: 58
+catD: 8
+---------------------------
+6.Limbi straine necesare:
+engleza: 21
+franceza: 1
+germana: 17
+spaniola: 1
+portugheza: 0
+chineza: 0
+araba: 0
+ucraineana: 0
+rusa: 0
+japoneza: 0
+coreeana: 0
+olandeza: 0
+--------------------------
+7.Nivelul de experienta:
+Fara experienta: 417
+Entry level: 1
+Mid level: 6
+Senior level: 0
+Manager/Executiv: 0
+--------------------------
+8.Salariul:
+Au salariul peste 6000: 0
+Au salariul peste 4000: 16
+Au salariul peste 2000: 13
+---------------------------
+9.Oras:
+Locuri de munca in Bucuresti: 75
+Locuri de munca in Iasi: 23
+Locuri de munca in Constanta: 19
+Locuri de munca in Timisoara: 24
+Locuri de munca in Cluj: 41
+Locuri de munca in Brasov: 37
+---------------------------
+10.Program in weekend:
+Numar = 43
+---------------------------
+11.Bonusuri salariale:
+Bonuri de masa: 123
+Bonusuri: 241
+---------------------------
+12.Profesie:
+economist: 4
+contabil: 33
+consilier: 25
+muncitor: 76
+stivuitorist: 25
+manipulant: 17
+bona: 31
+zilier: 5
+menajera: 7
+electrician: 7
+profesor: 3
+mecanic: 29
+assistent: 0
+personal: 169
+vanzatoare: 37
+coleg: 103
+recep: 50
+sofer: 152
+munca: 403
+ospatar: 45
+bucatar: 107
+persoan: 187
+agent: 56
+gestionar: 22
+vanzator: 12
+camerista: 6
+pizzar: 12
+secretar: 10
+casier: 21
+asistent: 14
+tre: 364
+lucrator: 45
+gospodina: 1
+pentru: 673
+paznic: 2
+coafeza: 0
+cosmeticiana: 4
+operator: 41
+talent: 3
+angajat: 67
+trebuie: 58
+responsabil: 106
+dulgher: 13
+zidar: 15
+barman: 35
+colator: 1
+colantator: 1
+inginer: 12
+asistenta: 4
+spalator: 14
+angajare: 42
+ingrijitoare: 6
+ajutor: 106
+patiser: 13
+meserias: 10
+meseria: 14
+tipograf: 3
+femeie: 22
+persoana: 74
+barbat: 11
+specialist: 21
+tamplar: 13
+ospatarita: 2
+abator: 7
+familie: 11
+cuplu: 6
+frizer: 6
+macaragiu: 1
+sezon: 20
+electricien: 11
+secretara: 7
+curier: 56
+livrator: 35
+junior: 3
+direct: 38
+receptioner: 8
+secretare: 1
+barmana: 2
+spalatoreasa: 0
+buyer: 1
+colaborator: 17
+receptionera: 6
+consultant: 32
+consultan: 33
+inspector: 1
+inclusiv: 9
+montator: 20
+dispecer: 12
+expeditor: 1
+lucr: 542
+doar: 108
+vulcanizator: 2
+echipe: 60
+agen: 63
+spanuitor: 0
+responsanbil: 1
+laborant: 2
+colege: 2
+ingrijitor: 7
+schelar: 1
+casiera: 2
+sef: 35
+buldoexcavatorist: 2
+pizzer: 14
+ospatara: 2
+amanejar: 1
+amenajar: 14
+supraveghetoare: 2
+optometrist: 1
+muncitori: 54
+operatoare: 9
+urgent: 14
+spalatoare: 1
+gradinar: 7
+instalator: 22
+minor: 6
+piccolo: 0
+tehnician: 11
+magazioner: 0
+confectionar: 2
+naval: 3
+lacatusi: 5
+placator: 2
+confectioner: 6
+colega: 6
+preparatoare: 2
+cameriste: 4
+curatenie: 60
+brutar: 2
+continuu: 10
+soferite: 0
+echip: 364
+functionar: 14
+confectionere: 4
+dresoare: 1
+barista: 0
+tehnicien: 2
+ospatars: 1
+comisionar: 1
+salon: 22
+recruiter: 1
+pesonal: 1
+medic: 85
+controlor: 1
+opertor: 1
+fierar: 8
+shaormar: 0
+supraveghetor: 2
+sudor: 14
+eletrician: 1
+fara: 93
+runner: 1
+spalaror: 1
+deservant: 1
+lacatus: 8
+receptionist: 1
+frigotehnist: 4
+manichiurista: 1
+camerist: 11
+conducator: 3
+conduc: 110
+preparator: 2
+tractionist: 2
+necalificat: 66
+ambalator: 7
+echipaj: 36
+picol: 4
+manager: 16
+colaborare: 22
+coordonator: 4
+domna: 2
+vorbitor: 3
+doua: 45
+calificat: 80
+menajere: 1
+langa: 15
+distribuitor: 9
+oamen: 40
+vopsitor: 4
+finisor: 14
+contabila: 5
+muncitoare: 11
+fermier: 2
+rigipsar: 1
+faiantar: 2
+strungar: 2
+picker: 1
+infirmiera: 1
+peste: 93
+croitoreasa: 0
